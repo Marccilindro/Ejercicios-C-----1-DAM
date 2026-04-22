@@ -1,0 +1,4 @@
+/home/mcilindro/CLASE/Programacion/C#/AP9/Ejercicio2/obj/Debug/net8.0/Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+/home/mcilindro/CLASE/Programacion/C#/AP9/Ejercicio2/obj/Debug/net8.0/Ejercicio2.AssemblyInfoInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/AP9/Ejercicio2/obj/Debug/net8.0/Ejercicio2.AssemblyInfo.cs
+/home/mcilindro/CLASE/Programacion/C#/AP9/Ejercicio2/obj/Debug/net8.0/Ejercicio2.csproj.CoreCompileInputs.cache

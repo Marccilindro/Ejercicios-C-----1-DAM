@@ -1,0 +1,14 @@
+/home/mcilindro/CLASE/Programacion/C#/AP9/Ejercicio1/obj/Debug/net8.0/Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/home/mcilindro/CLASE/Programacion/C#/AP9/Ejercicio1/obj/Debug/net8.0/Ejercicio1.AssemblyInfoInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/AP9/Ejercicio1/obj/Debug/net8.0/Ejercicio1.AssemblyInfo.cs
+/home/mcilindro/CLASE/Programacion/C#/AP9/Ejercicio1/obj/Debug/net8.0/Ejercicio1.csproj.CoreCompileInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/AP9/Ejercicio1/bin/Debug/net8.0/Ejercicio1
+/home/mcilindro/CLASE/Programacion/C#/AP9/Ejercicio1/bin/Debug/net8.0/Ejercicio1.deps.json
+/home/mcilindro/CLASE/Programacion/C#/AP9/Ejercicio1/bin/Debug/net8.0/Ejercicio1.runtimeconfig.json
+/home/mcilindro/CLASE/Programacion/C#/AP9/Ejercicio1/bin/Debug/net8.0/Ejercicio1.dll
+/home/mcilindro/CLASE/Programacion/C#/AP9/Ejercicio1/bin/Debug/net8.0/Ejercicio1.pdb
+/home/mcilindro/CLASE/Programacion/C#/AP9/Ejercicio1/obj/Debug/net8.0/Ejercicio1.dll
+/home/mcilindro/CLASE/Programacion/C#/AP9/Ejercicio1/obj/Debug/net8.0/refint/Ejercicio1.dll
+/home/mcilindro/CLASE/Programacion/C#/AP9/Ejercicio1/obj/Debug/net8.0/Ejercicio1.pdb
+/home/mcilindro/CLASE/Programacion/C#/AP9/Ejercicio1/obj/Debug/net8.0/Ejercicio1.genruntimeconfig.cache
+/home/mcilindro/CLASE/Programacion/C#/AP9/Ejercicio1/obj/Debug/net8.0/ref/Ejercicio1.dll

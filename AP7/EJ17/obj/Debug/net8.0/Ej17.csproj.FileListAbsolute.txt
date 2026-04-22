@@ -1,0 +1,14 @@
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ17/obj/Debug/net8.0/Ej17.GeneratedMSBuildEditorConfig.editorconfig
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ17/obj/Debug/net8.0/Ej17.AssemblyInfoInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ17/obj/Debug/net8.0/Ej17.AssemblyInfo.cs
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ17/obj/Debug/net8.0/Ej17.csproj.CoreCompileInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ17/bin/Debug/net8.0/Ej17
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ17/bin/Debug/net8.0/Ej17.deps.json
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ17/bin/Debug/net8.0/Ej17.runtimeconfig.json
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ17/bin/Debug/net8.0/Ej17.dll
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ17/bin/Debug/net8.0/Ej17.pdb
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ17/obj/Debug/net8.0/Ej17.dll
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ17/obj/Debug/net8.0/refint/Ej17.dll
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ17/obj/Debug/net8.0/Ej17.pdb
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ17/obj/Debug/net8.0/Ej17.genruntimeconfig.cache
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ17/obj/Debug/net8.0/ref/Ej17.dll

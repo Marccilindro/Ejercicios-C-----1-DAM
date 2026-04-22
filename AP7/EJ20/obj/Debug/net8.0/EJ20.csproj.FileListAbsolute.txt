@@ -1,0 +1,14 @@
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ20/bin/Debug/net8.0/EJ20
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ20/bin/Debug/net8.0/EJ20.deps.json
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ20/bin/Debug/net8.0/EJ20.runtimeconfig.json
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ20/bin/Debug/net8.0/EJ20.dll
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ20/bin/Debug/net8.0/EJ20.pdb
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ20/obj/Debug/net8.0/EJ20.GeneratedMSBuildEditorConfig.editorconfig
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ20/obj/Debug/net8.0/EJ20.AssemblyInfoInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ20/obj/Debug/net8.0/EJ20.AssemblyInfo.cs
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ20/obj/Debug/net8.0/EJ20.csproj.CoreCompileInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ20/obj/Debug/net8.0/EJ20.dll
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ20/obj/Debug/net8.0/refint/EJ20.dll
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ20/obj/Debug/net8.0/EJ20.pdb
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ20/obj/Debug/net8.0/EJ20.genruntimeconfig.cache
+/home/mcilindro/CLASE/Programacion/C#/AP7/EJ20/obj/Debug/net8.0/ref/EJ20.dll

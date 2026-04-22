@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\08. PROGRAMACION\\BLOQUE_2. Programaci\u00F3n con VS.NET (C#)\\05. Introducci\u00F3n a las colecciones en C#\\UsoDeListas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95AE65AF-57CC-459C-9587-382A7D1DCF8D}|UsoDeListas.csproj|j:\\08. programacion\\bloque_2. programaci\u00F3n con vs.net (c#)\\05. introducci\u00F3n a las colecciones en c#\\usodelistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AE65AF-57CC-459C-9587-382A7D1DCF8D}|UsoDeListas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "J:\\08. PROGRAMACION\\BLOQUE_2. Programaci\u00F3n con VS.NET (C#)\\05. Introducci\u00F3n a las colecciones en C#\\UsoDeListas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "J:\\08. PROGRAMACION\\BLOQUE_2. Programaci\u00F3n con VS.NET (C#)\\05. Introducci\u00F3n a las colecciones en C#\\UsoDeListas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T08:44:20.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

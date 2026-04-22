@@ -1,0 +1,14 @@
+/home/mcilindro/CLASE/Programacion/C#/TimeSpan/bin/Debug/net8.0/TimeSpan
+/home/mcilindro/CLASE/Programacion/C#/TimeSpan/bin/Debug/net8.0/TimeSpan.deps.json
+/home/mcilindro/CLASE/Programacion/C#/TimeSpan/bin/Debug/net8.0/TimeSpan.runtimeconfig.json
+/home/mcilindro/CLASE/Programacion/C#/TimeSpan/bin/Debug/net8.0/TimeSpan.dll
+/home/mcilindro/CLASE/Programacion/C#/TimeSpan/bin/Debug/net8.0/TimeSpan.pdb
+/home/mcilindro/CLASE/Programacion/C#/TimeSpan/obj/Debug/net8.0/TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+/home/mcilindro/CLASE/Programacion/C#/TimeSpan/obj/Debug/net8.0/TimeSpan.AssemblyInfoInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/TimeSpan/obj/Debug/net8.0/TimeSpan.AssemblyInfo.cs
+/home/mcilindro/CLASE/Programacion/C#/TimeSpan/obj/Debug/net8.0/TimeSpan.csproj.CoreCompileInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/TimeSpan/obj/Debug/net8.0/TimeSpan.dll
+/home/mcilindro/CLASE/Programacion/C#/TimeSpan/obj/Debug/net8.0/refint/TimeSpan.dll
+/home/mcilindro/CLASE/Programacion/C#/TimeSpan/obj/Debug/net8.0/TimeSpan.pdb
+/home/mcilindro/CLASE/Programacion/C#/TimeSpan/obj/Debug/net8.0/TimeSpan.genruntimeconfig.cache
+/home/mcilindro/CLASE/Programacion/C#/TimeSpan/obj/Debug/net8.0/ref/TimeSpan.dll

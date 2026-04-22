@@ -1,0 +1,16 @@
+C:/Users/sgutierr/Desktop/EjemplosString/obj/Debug/EjemplosString.csproj.AssemblyReference.cache
+C:/Users/sgutierr/Desktop/EjemplosString/obj/Debug/EjemplosString.csproj.CoreCompileInputs.cache
+C:/Users/sgutierr/Desktop/EjemplosString/bin/Debug/EjemplosString.exe.config
+C:/Users/sgutierr/Desktop/EjemplosString/bin/Debug/EjemplosString.exe
+C:/Users/sgutierr/Desktop/EjemplosString/bin/Debug/EjemplosString.pdb
+C:/Users/sgutierr/Desktop/EjemplosString/obj/Debug/EjemplosString.exe
+C:/Users/sgutierr/Desktop/EjemplosString/obj/Debug/EjemplosString.pdb
+I:/PROG/Bloque2/06. Ejemplos de metodos de strings/EjemplosString/bin/Debug/EjemplosString.exe.config
+I:/PROG/Bloque2/06. Ejemplos de metodos de strings/EjemplosString/bin/Debug/EjemplosString.exe
+I:/PROG/Bloque2/06. Ejemplos de metodos de strings/EjemplosString/bin/Debug/EjemplosString.pdb
+I:/PROG/Bloque2/06. Ejemplos de metodos de strings/EjemplosString/obj/Debug/EjemplosString.csproj.AssemblyReference.cache
+I:/PROG/Bloque2/06. Ejemplos de metodos de strings/EjemplosString/obj/Debug/EjemplosString.csproj.CoreCompileInputs.cache
+I:/PROG/Bloque2/06. Ejemplos de metodos de strings/EjemplosString/obj/Debug/EjemplosString.exe
+I:/PROG/Bloque2/06. Ejemplos de metodos de strings/EjemplosString/obj/Debug/EjemplosString.pdb
+/home/mcilindro/CLASE/Programacion/C#/Arrays_Prueba/EjemplosString/obj/Debug/EjemplosString.exe
+/home/mcilindro/CLASE/Programacion/C#/Arrays_Prueba/EjemplosString/obj/Debug/EjemplosString.pdb

@@ -1,0 +1,14 @@
+/home/mcilindro/CLASE/Programacion/C#/Herencia/Ejercicio2/bin/Debug/net8.0/Ejercicio2
+/home/mcilindro/CLASE/Programacion/C#/Herencia/Ejercicio2/bin/Debug/net8.0/Ejercicio2.deps.json
+/home/mcilindro/CLASE/Programacion/C#/Herencia/Ejercicio2/bin/Debug/net8.0/Ejercicio2.runtimeconfig.json
+/home/mcilindro/CLASE/Programacion/C#/Herencia/Ejercicio2/bin/Debug/net8.0/Ejercicio2.dll
+/home/mcilindro/CLASE/Programacion/C#/Herencia/Ejercicio2/bin/Debug/net8.0/Ejercicio2.pdb
+/home/mcilindro/CLASE/Programacion/C#/Herencia/Ejercicio2/obj/Debug/net8.0/Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+/home/mcilindro/CLASE/Programacion/C#/Herencia/Ejercicio2/obj/Debug/net8.0/Ejercicio2.AssemblyInfoInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/Herencia/Ejercicio2/obj/Debug/net8.0/Ejercicio2.AssemblyInfo.cs
+/home/mcilindro/CLASE/Programacion/C#/Herencia/Ejercicio2/obj/Debug/net8.0/Ejercicio2.csproj.CoreCompileInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/Herencia/Ejercicio2/obj/Debug/net8.0/Ejercicio2.dll
+/home/mcilindro/CLASE/Programacion/C#/Herencia/Ejercicio2/obj/Debug/net8.0/refint/Ejercicio2.dll
+/home/mcilindro/CLASE/Programacion/C#/Herencia/Ejercicio2/obj/Debug/net8.0/Ejercicio2.pdb
+/home/mcilindro/CLASE/Programacion/C#/Herencia/Ejercicio2/obj/Debug/net8.0/Ejercicio2.genruntimeconfig.cache
+/home/mcilindro/CLASE/Programacion/C#/Herencia/Ejercicio2/obj/Debug/net8.0/ref/Ejercicio2.dll

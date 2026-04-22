@@ -1,0 +1,109 @@
+C:\Users\Salva\source\repos\WFMiniCalculadora\bin\Debug\WFMiniCalculadora.exe.config
+C:\Users\Salva\source\repos\WFMiniCalculadora\bin\Debug\WFMiniCalculadora.exe
+C:\Users\Salva\source\repos\WFMiniCalculadora\bin\Debug\WFMiniCalculadora.pdb
+C:\Users\Salva\source\repos\WFMiniCalculadora\obj\Debug\WFMiniCalculadora.csprojAssemblyReference.cache
+C:\Users\Salva\source\repos\WFMiniCalculadora\obj\Debug\WFMiniCalculadora.Form1.resources
+C:\Users\Salva\source\repos\WFMiniCalculadora\obj\Debug\WFMiniCalculadora.Properties.Resources.resources
+C:\Users\Salva\source\repos\WFMiniCalculadora\obj\Debug\WFMiniCalculadora.csproj.GenerateResource.cache
+C:\Users\Salva\source\repos\WFMiniCalculadora\obj\Debug\WFMiniCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Salva\source\repos\WFMiniCalculadora\obj\Debug\WFMiniCalculadora.exe
+C:\Users\Salva\source\repos\WFMiniCalculadora\obj\Debug\WFMiniCalculadora.pdb
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\WFMiniCalculadora\bin\Debug\WFMiniCalculadora.exe.config
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\WFMiniCalculadora\bin\Debug\WFMiniCalculadora.exe
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\WFMiniCalculadora\bin\Debug\WFMiniCalculadora.pdb
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\WFMiniCalculadora\obj\Debug\WFMiniCalculadora.csprojAssemblyReference.cache
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\WFMiniCalculadora\obj\Debug\WFMiniCalculadora.Form1.resources
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\WFMiniCalculadora\obj\Debug\WFMiniCalculadora.Properties.Resources.resources
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\WFMiniCalculadora\obj\Debug\WFMiniCalculadora.csproj.GenerateResource.cache
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\WFMiniCalculadora\obj\Debug\WFMiniCalculadora.csproj.CoreCompileInputs.cache
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\WFMiniCalculadora\obj\Debug\WFMiniCalculadora.exe
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\WFMiniCalculadora\obj\Debug\WFMiniCalculadora.pdb
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\01. Ejercicio practico. WFMiniCalculadora\bin\Debug\WFMiniCalculadora.exe.config
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\01. Ejercicio practico. WFMiniCalculadora\bin\Debug\WFMiniCalculadora.exe
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\01. Ejercicio practico. WFMiniCalculadora\bin\Debug\WFMiniCalculadora.pdb
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\01. Ejercicio practico. WFMiniCalculadora\obj\Debug\WFMiniCalculadora.csprojAssemblyReference.cache
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\01. Ejercicio practico. WFMiniCalculadora\obj\Debug\WFMiniCalculadora.Form1.resources
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\01. Ejercicio practico. WFMiniCalculadora\obj\Debug\WFMiniCalculadora.Properties.Resources.resources
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\01. Ejercicio practico. WFMiniCalculadora\obj\Debug\WFMiniCalculadora.csproj.GenerateResource.cache
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\01. Ejercicio practico. WFMiniCalculadora\obj\Debug\WFMiniCalculadora.csproj.CoreCompileInputs.cache
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\01. Ejercicio practico. WFMiniCalculadora\obj\Debug\WFMiniCalculadora.exe
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\01. Ejercicio practico. WFMiniCalculadora\obj\Debug\WFMiniCalculadora.pdb
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\01. Ejercicio practico. WFMiniCalculadora\Minicalculadora\bin\Debug\WFMiniCalculadora.exe.config
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\01. Ejercicio practico. WFMiniCalculadora\Minicalculadora\bin\Debug\WFMiniCalculadora.exe
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\01. Ejercicio practico. WFMiniCalculadora\Minicalculadora\bin\Debug\WFMiniCalculadora.pdb
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\01. Ejercicio practico. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.csprojAssemblyReference.cache
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\01. Ejercicio practico. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.Form1.resources
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\01. Ejercicio practico. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.Properties.Resources.resources
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\01. Ejercicio practico. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.csproj.GenerateResource.cache
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\01. Ejercicio practico. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.csproj.CoreCompileInputs.cache
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\01. Ejercicio practico. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.exe
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\01. Ejercicio practico. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.pdb
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\bin\Debug\WFMiniCalculadora.exe.config
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\bin\Debug\WFMiniCalculadora.exe
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\bin\Debug\WFMiniCalculadora.pdb
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.csprojAssemblyReference.cache
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.Form1.resources
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.Properties.Resources.resources
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.csproj.GenerateResource.cache
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.csproj.CoreCompileInputs.cache
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.exe
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.pdb
+E:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\bin\Debug\WFMiniCalculadora.exe.config
+E:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\bin\Debug\WFMiniCalculadora.exe
+E:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\bin\Debug\WFMiniCalculadora.pdb
+E:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.csprojAssemblyReference.cache
+E:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.Form1.resources
+E:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.Properties.Resources.resources
+E:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.csproj.GenerateResource.cache
+E:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.csproj.CoreCompileInputs.cache
+E:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.exe
+E:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.pdb
+H:\04. PROG - DAM 19-20\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\bin\Debug\WFMiniCalculadora.exe.config
+H:\04. PROG - DAM 19-20\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\bin\Debug\WFMiniCalculadora.exe
+H:\04. PROG - DAM 19-20\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\bin\Debug\WFMiniCalculadora.pdb
+H:\04. PROG - DAM 19-20\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.csprojAssemblyReference.cache
+H:\04. PROG - DAM 19-20\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.Form1.resources
+H:\04. PROG - DAM 19-20\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.Properties.Resources.resources
+H:\04. PROG - DAM 19-20\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.csproj.GenerateResource.cache
+H:\04. PROG - DAM 19-20\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.exe
+H:\04. PROG - DAM 19-20\Bloque4. Desarrollo de aplicaciones Windows\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.pdb
+C:\Users\sgutierr\Downloads\Minicalculadora\bin\Debug\WFMiniCalculadora.exe.config
+C:\Users\sgutierr\Downloads\Minicalculadora\bin\Debug\WFMiniCalculadora.exe
+C:\Users\sgutierr\Downloads\Minicalculadora\bin\Debug\WFMiniCalculadora.pdb
+C:\Users\sgutierr\Downloads\Minicalculadora\obj\Debug\WFMiniCalculadora.csproj.AssemblyReference.cache
+C:\Users\sgutierr\Downloads\Minicalculadora\obj\Debug\WFMiniCalculadora.Form1.resources
+C:\Users\sgutierr\Downloads\Minicalculadora\obj\Debug\WFMiniCalculadora.Properties.Resources.resources
+C:\Users\sgutierr\Downloads\Minicalculadora\obj\Debug\WFMiniCalculadora.csproj.GenerateResource.cache
+C:\Users\sgutierr\Downloads\Minicalculadora\obj\Debug\WFMiniCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\sgutierr\Downloads\Minicalculadora\obj\Debug\WFMiniCalculadora.exe
+C:\Users\sgutierr\Downloads\Minicalculadora\obj\Debug\WFMiniCalculadora.pdb
+C:\Users\sgutierr\Desktop\Minicalculadora\bin\Debug\WFMiniCalculadora.exe.config
+C:\Users\sgutierr\Desktop\Minicalculadora\bin\Debug\WFMiniCalculadora.exe
+C:\Users\sgutierr\Desktop\Minicalculadora\bin\Debug\WFMiniCalculadora.pdb
+C:\Users\sgutierr\Desktop\Minicalculadora\obj\Debug\WFMiniCalculadora.csproj.AssemblyReference.cache
+C:\Users\sgutierr\Desktop\Minicalculadora\obj\Debug\WFMiniCalculadora.Properties.Resources.resources
+C:\Users\sgutierr\Desktop\Minicalculadora\obj\Debug\WFMiniCalculadora.csproj.GenerateResource.cache
+C:\Users\sgutierr\Desktop\Minicalculadora\obj\Debug\WFMiniCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\sgutierr\Desktop\Minicalculadora\obj\Debug\WFMiniCalculadora.exe
+C:\Users\sgutierr\Desktop\Minicalculadora\obj\Debug\WFMiniCalculadora.pdb
+C:\Users\Salva\Desktop\Minicalculadora\bin\Debug\WFMiniCalculadora.exe.config
+C:\Users\Salva\Desktop\Minicalculadora\bin\Debug\WFMiniCalculadora.exe
+C:\Users\Salva\Desktop\Minicalculadora\bin\Debug\WFMiniCalculadora.pdb
+C:\Users\Salva\Desktop\Minicalculadora\obj\Debug\WFMiniCalculadora.csproj.AssemblyReference.cache
+C:\Users\Salva\Desktop\Minicalculadora\obj\Debug\WFMiniCalculadora.FrmPrincipal.resources
+C:\Users\Salva\Desktop\Minicalculadora\obj\Debug\WFMiniCalculadora.Properties.Resources.resources
+C:\Users\Salva\Desktop\Minicalculadora\obj\Debug\WFMiniCalculadora.csproj.GenerateResource.cache
+C:\Users\Salva\Desktop\Minicalculadora\obj\Debug\WFMiniCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Salva\Desktop\Minicalculadora\obj\Debug\WFMiniCalculadora.exe
+C:\Users\Salva\Desktop\Minicalculadora\obj\Debug\WFMiniCalculadora.pdb
+I:\PROG\BLOQUE4\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\bin\Debug\WFMiniCalculadora.exe.config
+I:\PROG\BLOQUE4\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\bin\Debug\WFMiniCalculadora.exe
+I:\PROG\BLOQUE4\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\bin\Debug\WFMiniCalculadora.pdb
+I:\PROG\BLOQUE4\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.csproj.AssemblyReference.cache
+I:\PROG\BLOQUE4\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.FrmPrincipal.resources
+I:\PROG\BLOQUE4\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.Properties.Resources.resources
+I:\PROG\BLOQUE4\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.csproj.GenerateResource.cache
+I:\PROG\BLOQUE4\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.csproj.CoreCompileInputs.cache
+I:\PROG\BLOQUE4\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.exe
+I:\PROG\BLOQUE4\02. Ejercicio practico 2. WFMiniCalculadora\Minicalculadora\obj\Debug\WFMiniCalculadora.pdb
+C:\Users\sgutierr\Desktop\Minicalculadora\obj\Debug\WFMiniCalculadora.FrmPrincipal.resources

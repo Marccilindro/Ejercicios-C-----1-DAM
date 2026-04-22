@@ -1,0 +1,22 @@
+H:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ05\obj\Debug\EJ05.csprojAssemblyReference.cache
+H:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ05\obj\Debug\EJ05.csproj.CoreCompileInputs.cache
+H:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ05\bin\Debug\EJ05.exe.config
+H:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ05\bin\Debug\EJ05.exe
+H:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ05\bin\Debug\EJ05.pdb
+H:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ05\obj\Debug\EJ05.exe
+H:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ05\obj\Debug\EJ05.pdb
+J:\05. PROG 21-22\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ05\bin\Debug\EJ05.exe.config
+J:\05. PROG 21-22\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ05\bin\Debug\EJ05.exe
+J:\05. PROG 21-22\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ05\bin\Debug\EJ05.pdb
+J:\05. PROG 21-22\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ05\obj\Debug\EJ05.csproj.CoreCompileInputs.cache
+J:\05. PROG 21-22\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ05\obj\Debug\EJ05.exe
+J:\05. PROG 21-22\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ05\obj\Debug\EJ05.pdb
+J:\05. PROG 21-22\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ05\obj\Debug\EJ05.csproj.AssemblyReference.cache
+C:\Users\Salva\Desktop\Solucion\EJ05\bin\Debug\EJ05.exe.config
+C:\Users\Salva\Desktop\Solucion\EJ05\bin\Debug\EJ05.exe
+C:\Users\Salva\Desktop\Solucion\EJ05\bin\Debug\EJ05.pdb
+C:\Users\Salva\Desktop\Solucion\EJ05\obj\Debug\EJ05.csproj.AssemblyReference.cache
+C:\Users\Salva\Desktop\Solucion\EJ05\obj\Debug\EJ05.csproj.SuggestedBindingRedirects.cache
+C:\Users\Salva\Desktop\Solucion\EJ05\obj\Debug\EJ05.csproj.CoreCompileInputs.cache
+C:\Users\Salva\Desktop\Solucion\EJ05\obj\Debug\EJ05.exe
+C:\Users\Salva\Desktop\Solucion\EJ05\obj\Debug\EJ05.pdb

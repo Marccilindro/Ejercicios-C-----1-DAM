@@ -1,0 +1,14 @@
+L:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ10\bin\Debug\EJ10.exe.config
+L:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ10\bin\Debug\EJ10.exe
+L:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ10\bin\Debug\EJ10.pdb
+L:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ10\obj\Debug\EJ10.csproj.CoreCompileInputs.cache
+L:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ10\obj\Debug\EJ10.exe
+L:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ10\obj\Debug\EJ10.pdb
+C:\Users\Salva\Desktop\Solucion\EJ10\bin\Debug\EJ10.exe.config
+C:\Users\Salva\Desktop\Solucion\EJ10\bin\Debug\EJ10.exe
+C:\Users\Salva\Desktop\Solucion\EJ10\bin\Debug\EJ10.pdb
+C:\Users\Salva\Desktop\Solucion\EJ10\obj\Debug\EJ10.csproj.AssemblyReference.cache
+C:\Users\Salva\Desktop\Solucion\EJ10\obj\Debug\EJ10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Salva\Desktop\Solucion\EJ10\obj\Debug\EJ10.csproj.CoreCompileInputs.cache
+C:\Users\Salva\Desktop\Solucion\EJ10\obj\Debug\EJ10.exe
+C:\Users\Salva\Desktop\Solucion\EJ10\obj\Debug\EJ10.pdb

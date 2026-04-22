@@ -1,0 +1,14 @@
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act2/bin/Debug/net8.0/Act2
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act2/bin/Debug/net8.0/Act2.deps.json
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act2/bin/Debug/net8.0/Act2.runtimeconfig.json
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act2/bin/Debug/net8.0/Act2.dll
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act2/bin/Debug/net8.0/Act2.pdb
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act2/obj/Debug/net8.0/Act2.GeneratedMSBuildEditorConfig.editorconfig
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act2/obj/Debug/net8.0/Act2.AssemblyInfoInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act2/obj/Debug/net8.0/Act2.AssemblyInfo.cs
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act2/obj/Debug/net8.0/Act2.csproj.CoreCompileInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act2/obj/Debug/net8.0/Act2.dll
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act2/obj/Debug/net8.0/refint/Act2.dll
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act2/obj/Debug/net8.0/Act2.pdb
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act2/obj/Debug/net8.0/Act2.genruntimeconfig.cache
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act2/obj/Debug/net8.0/ref/Act2.dll

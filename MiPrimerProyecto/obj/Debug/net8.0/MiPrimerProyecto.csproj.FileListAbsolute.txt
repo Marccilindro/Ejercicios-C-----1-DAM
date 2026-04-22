@@ -1,0 +1,14 @@
+/home/mcilindro/CLASE/Programacion/C#/MiPrimerProyecto/bin/Debug/net8.0/MiPrimerProyecto
+/home/mcilindro/CLASE/Programacion/C#/MiPrimerProyecto/bin/Debug/net8.0/MiPrimerProyecto.deps.json
+/home/mcilindro/CLASE/Programacion/C#/MiPrimerProyecto/bin/Debug/net8.0/MiPrimerProyecto.runtimeconfig.json
+/home/mcilindro/CLASE/Programacion/C#/MiPrimerProyecto/bin/Debug/net8.0/MiPrimerProyecto.dll
+/home/mcilindro/CLASE/Programacion/C#/MiPrimerProyecto/bin/Debug/net8.0/MiPrimerProyecto.pdb
+/home/mcilindro/CLASE/Programacion/C#/MiPrimerProyecto/obj/Debug/net8.0/MiPrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+/home/mcilindro/CLASE/Programacion/C#/MiPrimerProyecto/obj/Debug/net8.0/MiPrimerProyecto.AssemblyInfoInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/MiPrimerProyecto/obj/Debug/net8.0/MiPrimerProyecto.AssemblyInfo.cs
+/home/mcilindro/CLASE/Programacion/C#/MiPrimerProyecto/obj/Debug/net8.0/MiPrimerProyecto.csproj.CoreCompileInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/MiPrimerProyecto/obj/Debug/net8.0/MiPrimerProyecto.dll
+/home/mcilindro/CLASE/Programacion/C#/MiPrimerProyecto/obj/Debug/net8.0/refint/MiPrimerProyecto.dll
+/home/mcilindro/CLASE/Programacion/C#/MiPrimerProyecto/obj/Debug/net8.0/MiPrimerProyecto.pdb
+/home/mcilindro/CLASE/Programacion/C#/MiPrimerProyecto/obj/Debug/net8.0/MiPrimerProyecto.genruntimeconfig.cache
+/home/mcilindro/CLASE/Programacion/C#/MiPrimerProyecto/obj/Debug/net8.0/ref/MiPrimerProyecto.dll

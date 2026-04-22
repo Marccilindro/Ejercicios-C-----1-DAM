@@ -1,0 +1,14 @@
+/home/mcilindro/CLASE/Programacion/C#/Arrays_Prueba/EjemploFunciones/bin/Debug/net8.0/EjemploFunciones
+/home/mcilindro/CLASE/Programacion/C#/Arrays_Prueba/EjemploFunciones/bin/Debug/net8.0/EjemploFunciones.deps.json
+/home/mcilindro/CLASE/Programacion/C#/Arrays_Prueba/EjemploFunciones/bin/Debug/net8.0/EjemploFunciones.runtimeconfig.json
+/home/mcilindro/CLASE/Programacion/C#/Arrays_Prueba/EjemploFunciones/bin/Debug/net8.0/EjemploFunciones.dll
+/home/mcilindro/CLASE/Programacion/C#/Arrays_Prueba/EjemploFunciones/bin/Debug/net8.0/EjemploFunciones.pdb
+/home/mcilindro/CLASE/Programacion/C#/Arrays_Prueba/EjemploFunciones/obj/Debug/net8.0/EjemploFunciones.GeneratedMSBuildEditorConfig.editorconfig
+/home/mcilindro/CLASE/Programacion/C#/Arrays_Prueba/EjemploFunciones/obj/Debug/net8.0/EjemploFunciones.AssemblyInfoInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/Arrays_Prueba/EjemploFunciones/obj/Debug/net8.0/EjemploFunciones.AssemblyInfo.cs
+/home/mcilindro/CLASE/Programacion/C#/Arrays_Prueba/EjemploFunciones/obj/Debug/net8.0/EjemploFunciones.csproj.CoreCompileInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/Arrays_Prueba/EjemploFunciones/obj/Debug/net8.0/EjemploFunciones.dll
+/home/mcilindro/CLASE/Programacion/C#/Arrays_Prueba/EjemploFunciones/obj/Debug/net8.0/refint/EjemploFunciones.dll
+/home/mcilindro/CLASE/Programacion/C#/Arrays_Prueba/EjemploFunciones/obj/Debug/net8.0/EjemploFunciones.pdb
+/home/mcilindro/CLASE/Programacion/C#/Arrays_Prueba/EjemploFunciones/obj/Debug/net8.0/EjemploFunciones.genruntimeconfig.cache
+/home/mcilindro/CLASE/Programacion/C#/Arrays_Prueba/EjemploFunciones/obj/Debug/net8.0/ref/EjemploFunciones.dll

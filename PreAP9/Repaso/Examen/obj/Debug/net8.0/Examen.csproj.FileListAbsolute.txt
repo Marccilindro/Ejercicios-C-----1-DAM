@@ -1,0 +1,14 @@
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Repaso/Examen/obj/Debug/net8.0/Examen.GeneratedMSBuildEditorConfig.editorconfig
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Repaso/Examen/obj/Debug/net8.0/Examen.AssemblyInfoInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Repaso/Examen/obj/Debug/net8.0/Examen.AssemblyInfo.cs
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Repaso/Examen/obj/Debug/net8.0/Examen.csproj.CoreCompileInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Repaso/Examen/bin/Debug/net8.0/Examen
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Repaso/Examen/bin/Debug/net8.0/Examen.deps.json
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Repaso/Examen/bin/Debug/net8.0/Examen.runtimeconfig.json
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Repaso/Examen/bin/Debug/net8.0/Examen.dll
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Repaso/Examen/bin/Debug/net8.0/Examen.pdb
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Repaso/Examen/obj/Debug/net8.0/Examen.dll
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Repaso/Examen/obj/Debug/net8.0/refint/Examen.dll
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Repaso/Examen/obj/Debug/net8.0/Examen.pdb
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Repaso/Examen/obj/Debug/net8.0/Examen.genruntimeconfig.cache
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Repaso/Examen/obj/Debug/net8.0/ref/Examen.dll

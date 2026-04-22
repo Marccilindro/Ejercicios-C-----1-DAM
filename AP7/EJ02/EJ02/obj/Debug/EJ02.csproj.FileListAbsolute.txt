@@ -1,0 +1,20 @@
+H:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ02\EJ02\bin\Debug\EJ02.exe.config
+H:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ02\EJ02\bin\Debug\EJ02.exe
+H:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ02\EJ02\bin\Debug\EJ02.pdb
+H:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ02\EJ02\obj\Debug\EJ02.csprojAssemblyReference.cache
+H:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ02\EJ02\obj\Debug\EJ02.csproj.CoreCompileInputs.cache
+H:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ02\EJ02\obj\Debug\EJ02.exe
+H:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ02\EJ02\obj\Debug\EJ02.pdb
+J:\05. PROG 21-22\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ02\EJ02\bin\Debug\EJ02.exe.config
+J:\05. PROG 21-22\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ02\EJ02\bin\Debug\EJ02.exe
+J:\05. PROG 21-22\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ02\EJ02\bin\Debug\EJ02.pdb
+J:\05. PROG 21-22\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ02\EJ02\obj\Debug\EJ02.csproj.CoreCompileInputs.cache
+J:\05. PROG 21-22\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ02\EJ02\obj\Debug\EJ02.exe
+J:\05. PROG 21-22\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ02\EJ02\obj\Debug\EJ02.pdb
+C:\Users\Salva\Desktop\Solucion\EJ02\EJ02\bin\Debug\EJ02.exe.config
+C:\Users\Salva\Desktop\Solucion\EJ02\EJ02\bin\Debug\EJ02.exe
+C:\Users\Salva\Desktop\Solucion\EJ02\EJ02\bin\Debug\EJ02.pdb
+C:\Users\Salva\Desktop\Solucion\EJ02\EJ02\obj\Debug\EJ02.csproj.AssemblyReference.cache
+C:\Users\Salva\Desktop\Solucion\EJ02\EJ02\obj\Debug\EJ02.csproj.CoreCompileInputs.cache
+C:\Users\Salva\Desktop\Solucion\EJ02\EJ02\obj\Debug\EJ02.exe
+C:\Users\Salva\Desktop\Solucion\EJ02\EJ02\obj\Debug\EJ02.pdb

@@ -1,0 +1,14 @@
+/home/mcilindro/CLASE/Programacion/C#/AP6/Proyecto1/bin/Debug/net8.0/Proyecto1
+/home/mcilindro/CLASE/Programacion/C#/AP6/Proyecto1/bin/Debug/net8.0/Proyecto1.deps.json
+/home/mcilindro/CLASE/Programacion/C#/AP6/Proyecto1/bin/Debug/net8.0/Proyecto1.runtimeconfig.json
+/home/mcilindro/CLASE/Programacion/C#/AP6/Proyecto1/bin/Debug/net8.0/Proyecto1.dll
+/home/mcilindro/CLASE/Programacion/C#/AP6/Proyecto1/bin/Debug/net8.0/Proyecto1.pdb
+/home/mcilindro/CLASE/Programacion/C#/AP6/Proyecto1/obj/Debug/net8.0/Proyecto1.GeneratedMSBuildEditorConfig.editorconfig
+/home/mcilindro/CLASE/Programacion/C#/AP6/Proyecto1/obj/Debug/net8.0/Proyecto1.AssemblyInfoInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/AP6/Proyecto1/obj/Debug/net8.0/Proyecto1.AssemblyInfo.cs
+/home/mcilindro/CLASE/Programacion/C#/AP6/Proyecto1/obj/Debug/net8.0/Proyecto1.csproj.CoreCompileInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/AP6/Proyecto1/obj/Debug/net8.0/Proyecto1.dll
+/home/mcilindro/CLASE/Programacion/C#/AP6/Proyecto1/obj/Debug/net8.0/refint/Proyecto1.dll
+/home/mcilindro/CLASE/Programacion/C#/AP6/Proyecto1/obj/Debug/net8.0/Proyecto1.pdb
+/home/mcilindro/CLASE/Programacion/C#/AP6/Proyecto1/obj/Debug/net8.0/Proyecto1.genruntimeconfig.cache
+/home/mcilindro/CLASE/Programacion/C#/AP6/Proyecto1/obj/Debug/net8.0/ref/Proyecto1.dll

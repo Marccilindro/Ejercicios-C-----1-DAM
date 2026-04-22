@@ -1,0 +1,11 @@
+/home/mcilindro/CLASE/Programacion/C#/Biblioteca/Prueba/Utilidades/bin/Debug/net8.0/Utilidades.deps.json
+/home/mcilindro/CLASE/Programacion/C#/Biblioteca/Prueba/Utilidades/bin/Debug/net8.0/Utilidades.dll
+/home/mcilindro/CLASE/Programacion/C#/Biblioteca/Prueba/Utilidades/bin/Debug/net8.0/Utilidades.pdb
+/home/mcilindro/CLASE/Programacion/C#/Biblioteca/Prueba/Utilidades/obj/Debug/net8.0/Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+/home/mcilindro/CLASE/Programacion/C#/Biblioteca/Prueba/Utilidades/obj/Debug/net8.0/Utilidades.AssemblyInfoInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/Biblioteca/Prueba/Utilidades/obj/Debug/net8.0/Utilidades.AssemblyInfo.cs
+/home/mcilindro/CLASE/Programacion/C#/Biblioteca/Prueba/Utilidades/obj/Debug/net8.0/Utilidades.csproj.CoreCompileInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/Biblioteca/Prueba/Utilidades/obj/Debug/net8.0/Utilidades.dll
+/home/mcilindro/CLASE/Programacion/C#/Biblioteca/Prueba/Utilidades/obj/Debug/net8.0/refint/Utilidades.dll
+/home/mcilindro/CLASE/Programacion/C#/Biblioteca/Prueba/Utilidades/obj/Debug/net8.0/Utilidades.pdb
+/home/mcilindro/CLASE/Programacion/C#/Biblioteca/Prueba/Utilidades/obj/Debug/net8.0/ref/Utilidades.dll

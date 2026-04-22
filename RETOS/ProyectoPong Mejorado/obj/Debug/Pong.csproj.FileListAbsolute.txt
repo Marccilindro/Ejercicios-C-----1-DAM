@@ -1,0 +1,30 @@
+C:\Users\Salva\Desktop\Pong\bin\Debug\Pong.exe.config
+C:\Users\Salva\Desktop\Pong\bin\Debug\Pong.exe
+C:\Users\Salva\Desktop\Pong\bin\Debug\Pong.pdb
+C:\Users\Salva\Desktop\Pong\obj\Debug\Pong.csproj.AssemblyReference.cache
+C:\Users\Salva\Desktop\Pong\obj\Debug\Pong.FrmPrincipal.resources
+C:\Users\Salva\Desktop\Pong\obj\Debug\Pong.Properties.Resources.resources
+C:\Users\Salva\Desktop\Pong\obj\Debug\Pong.csproj.GenerateResource.cache
+C:\Users\Salva\Desktop\Pong\obj\Debug\Pong.csproj.CoreCompileInputs.cache
+C:\Users\Salva\Desktop\Pong\obj\Debug\Pong.exe
+C:\Users\Salva\Desktop\Pong\obj\Debug\Pong.pdb
+C:\Users\Salva\Desktop\ProyectoPong\bin\Debug\Pong.exe.config
+C:\Users\Salva\Desktop\ProyectoPong\bin\Debug\Pong.exe
+C:\Users\Salva\Desktop\ProyectoPong\bin\Debug\Pong.pdb
+C:\Users\Salva\Desktop\ProyectoPong\obj\Debug\Pong.csproj.AssemblyReference.cache
+C:\Users\Salva\Desktop\ProyectoPong\obj\Debug\Pong.FrmPrincipal.resources
+C:\Users\Salva\Desktop\ProyectoPong\obj\Debug\Pong.Properties.Resources.resources
+C:\Users\Salva\Desktop\ProyectoPong\obj\Debug\Pong.csproj.GenerateResource.cache
+C:\Users\Salva\Desktop\ProyectoPong\obj\Debug\Pong.csproj.CoreCompileInputs.cache
+C:\Users\Salva\Desktop\ProyectoPong\obj\Debug\Pong.exe
+C:\Users\Salva\Desktop\ProyectoPong\obj\Debug\Pong.pdb
+K:\PROG\Bloque4\01. Pong\ProyectoPong\bin\Debug\Pong.exe.config
+K:\PROG\Bloque4\01. Pong\ProyectoPong\bin\Debug\Pong.exe
+K:\PROG\Bloque4\01. Pong\ProyectoPong\bin\Debug\Pong.pdb
+K:\PROG\Bloque4\01. Pong\ProyectoPong\obj\Debug\Pong.csproj.AssemblyReference.cache
+K:\PROG\Bloque4\01. Pong\ProyectoPong\obj\Debug\Pong.FrmPrincipal.resources
+K:\PROG\Bloque4\01. Pong\ProyectoPong\obj\Debug\Pong.Properties.Resources.resources
+K:\PROG\Bloque4\01. Pong\ProyectoPong\obj\Debug\Pong.csproj.GenerateResource.cache
+K:\PROG\Bloque4\01. Pong\ProyectoPong\obj\Debug\Pong.csproj.CoreCompileInputs.cache
+K:\PROG\Bloque4\01. Pong\ProyectoPong\obj\Debug\Pong.exe
+K:\PROG\Bloque4\01. Pong\ProyectoPong\obj\Debug\Pong.pdb

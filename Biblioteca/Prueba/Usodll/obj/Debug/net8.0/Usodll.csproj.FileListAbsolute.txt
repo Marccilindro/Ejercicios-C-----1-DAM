@@ -1,0 +1,5 @@
+/home/mcilindro/CLASE/Programacion/C#/Biblioteca/Prueba/Usodll/obj/Debug/net8.0/Usodll.csproj.AssemblyReference.cache
+/home/mcilindro/CLASE/Programacion/C#/Biblioteca/Prueba/Usodll/obj/Debug/net8.0/Usodll.GeneratedMSBuildEditorConfig.editorconfig
+/home/mcilindro/CLASE/Programacion/C#/Biblioteca/Prueba/Usodll/obj/Debug/net8.0/Usodll.AssemblyInfoInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/Biblioteca/Prueba/Usodll/obj/Debug/net8.0/Usodll.AssemblyInfo.cs
+/home/mcilindro/CLASE/Programacion/C#/Biblioteca/Prueba/Usodll/obj/Debug/net8.0/Usodll.csproj.CoreCompileInputs.cache

@@ -1,0 +1,21 @@
+L:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ06\bin\Debug\EJ06.exe.config
+L:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ06\bin\Debug\EJ06.exe
+L:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ06\bin\Debug\EJ06.pdb
+L:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ06\obj\Debug\EJ06.csprojAssemblyReference.cache
+L:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ06\obj\Debug\EJ06.csproj.CoreCompileInputs.cache
+L:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ06\obj\Debug\EJ06.exe
+L:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ06\obj\Debug\EJ06.pdb
+L:\04. PROG - DAM 19-20\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ06\bin\Debug\EJ06.exe.config
+L:\04. PROG - DAM 19-20\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ06\bin\Debug\EJ06.exe
+L:\04. PROG - DAM 19-20\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ06\bin\Debug\EJ06.pdb
+L:\04. PROG - DAM 19-20\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ06\obj\Debug\EJ06.csprojAssemblyReference.cache
+L:\04. PROG - DAM 19-20\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ06\obj\Debug\EJ06.exe
+L:\04. PROG - DAM 19-20\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ06\obj\Debug\EJ06.pdb
+C:\Users\Salva\Desktop\Solucion\EJ06\bin\Debug\EJ06.exe.config
+C:\Users\Salva\Desktop\Solucion\EJ06\bin\Debug\EJ06.exe
+C:\Users\Salva\Desktop\Solucion\EJ06\bin\Debug\EJ06.pdb
+C:\Users\Salva\Desktop\Solucion\EJ06\obj\Debug\EJ06.csproj.AssemblyReference.cache
+C:\Users\Salva\Desktop\Solucion\EJ06\obj\Debug\EJ06.csproj.SuggestedBindingRedirects.cache
+C:\Users\Salva\Desktop\Solucion\EJ06\obj\Debug\EJ06.csproj.CoreCompileInputs.cache
+C:\Users\Salva\Desktop\Solucion\EJ06\obj\Debug\EJ06.exe
+C:\Users\Salva\Desktop\Solucion\EJ06\obj\Debug\EJ06.pdb

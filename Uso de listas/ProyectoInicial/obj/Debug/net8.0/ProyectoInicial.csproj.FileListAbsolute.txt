@@ -1,0 +1,4 @@
+/home/mcilindro/CLASE/Programacion/C#/Uso de listas/ProyectoInicial/obj/Debug/net8.0/ProyectoInicial.GeneratedMSBuildEditorConfig.editorconfig
+/home/mcilindro/CLASE/Programacion/C#/Uso de listas/ProyectoInicial/obj/Debug/net8.0/ProyectoInicial.AssemblyInfoInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/Uso de listas/ProyectoInicial/obj/Debug/net8.0/ProyectoInicial.AssemblyInfo.cs
+/home/mcilindro/CLASE/Programacion/C#/Uso de listas/ProyectoInicial/obj/Debug/net8.0/ProyectoInicial.csproj.CoreCompileInputs.cache

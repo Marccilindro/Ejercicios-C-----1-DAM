@@ -1,0 +1,14 @@
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act4/bin/Debug/net8.0/Act4
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act4/bin/Debug/net8.0/Act4.deps.json
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act4/bin/Debug/net8.0/Act4.runtimeconfig.json
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act4/bin/Debug/net8.0/Act4.dll
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act4/bin/Debug/net8.0/Act4.pdb
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act4/obj/Debug/net8.0/Act4.GeneratedMSBuildEditorConfig.editorconfig
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act4/obj/Debug/net8.0/Act4.AssemblyInfoInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act4/obj/Debug/net8.0/Act4.AssemblyInfo.cs
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act4/obj/Debug/net8.0/Act4.csproj.CoreCompileInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act4/obj/Debug/net8.0/Act4.dll
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act4/obj/Debug/net8.0/refint/Act4.dll
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act4/obj/Debug/net8.0/Act4.pdb
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act4/obj/Debug/net8.0/Act4.genruntimeconfig.cache
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Act4/obj/Debug/net8.0/ref/Act4.dll

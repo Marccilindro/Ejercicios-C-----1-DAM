@@ -1,0 +1,14 @@
+L:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ08\obj\Debug\EJ08.csproj.CoreCompileInputs.cache
+L:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ08\bin\Debug\EJ08.exe.config
+L:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ08\bin\Debug\EJ08.exe
+L:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ08\bin\Debug\EJ08.pdb
+L:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ08\obj\Debug\EJ08.exe
+L:\04. PROG - DAM 18-19\Bloque2. Programación con VS.NET (C#)\AP7. Ejercicios en C# - Programación estructurada\Solucion\EJ08\obj\Debug\EJ08.pdb
+C:\Users\Salva\Desktop\Solucion\EJ08\bin\Debug\EJ08.exe.config
+C:\Users\Salva\Desktop\Solucion\EJ08\bin\Debug\EJ08.exe
+C:\Users\Salva\Desktop\Solucion\EJ08\bin\Debug\EJ08.pdb
+C:\Users\Salva\Desktop\Solucion\EJ08\obj\Debug\EJ08.csproj.AssemblyReference.cache
+C:\Users\Salva\Desktop\Solucion\EJ08\obj\Debug\EJ08.csproj.SuggestedBindingRedirects.cache
+C:\Users\Salva\Desktop\Solucion\EJ08\obj\Debug\EJ08.csproj.CoreCompileInputs.cache
+C:\Users\Salva\Desktop\Solucion\EJ08\obj\Debug\EJ08.exe
+C:\Users\Salva\Desktop\Solucion\EJ08\obj\Debug\EJ08.pdb

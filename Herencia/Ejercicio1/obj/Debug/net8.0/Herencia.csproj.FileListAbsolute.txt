@@ -1,0 +1,4 @@
+/home/mcilindro/CLASE/Programacion/C#/Herencia/obj/Debug/net8.0/Herencia.GeneratedMSBuildEditorConfig.editorconfig
+/home/mcilindro/CLASE/Programacion/C#/Herencia/obj/Debug/net8.0/Herencia.AssemblyInfoInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/Herencia/obj/Debug/net8.0/Herencia.AssemblyInfo.cs
+/home/mcilindro/CLASE/Programacion/C#/Herencia/obj/Debug/net8.0/Herencia.csproj.CoreCompileInputs.cache

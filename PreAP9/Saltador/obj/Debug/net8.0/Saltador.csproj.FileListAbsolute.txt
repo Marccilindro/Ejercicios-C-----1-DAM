@@ -1,0 +1,4 @@
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Saltador/obj/Debug/net8.0/Saltador.GeneratedMSBuildEditorConfig.editorconfig
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Saltador/obj/Debug/net8.0/Saltador.AssemblyInfoInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Saltador/obj/Debug/net8.0/Saltador.AssemblyInfo.cs
+/home/mcilindro/CLASE/Programacion/C#/PreAP9/Saltador/obj/Debug/net8.0/Saltador.csproj.CoreCompileInputs.cache
