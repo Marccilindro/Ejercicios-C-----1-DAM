@@ -1,0 +1,5 @@
+/home/mcilindro/CLASE/Programacion/C#/AP10/Ejercicio1/obj/Debug/net8.0/Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/home/mcilindro/CLASE/Programacion/C#/AP10/Ejercicio1/obj/Debug/net8.0/Ejercicio1.AssemblyInfoInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/AP10/Ejercicio1/obj/Debug/net8.0/Ejercicio1.AssemblyInfo.cs
+/home/mcilindro/CLASE/Programacion/C#/AP10/Ejercicio1/obj/Debug/net8.0/Ejercicio1.csproj.CoreCompileInputs.cache
+/home/mcilindro/CLASE/Programacion/C#/AP10/Ejercicio1/obj/Debug/net8.0/Ejercicio1.sourcelink.json
